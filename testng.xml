@@ -6,7 +6,6 @@
       <class name="testpackage.Login_test"/>
       <class name="testpackage.Home_test"/>
       <class name="testpackage.Admin_test"/>
-      <class name="testpackage.Login_test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
